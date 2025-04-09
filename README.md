@@ -7,7 +7,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Yujin+Park" alt="Typing SVG" /></a>
 <br>
 
-<a href="https://www.naver.com">
+<a href="https://star-squash-f44.notion.site/About-Me-10cf7a64a46080f9a19cf50c213498c2?pvs=4">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=Black"/>
 </a>
 
